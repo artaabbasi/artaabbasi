@@ -1,7 +1,7 @@
 <h1> Hi 👋 My name is Arta </h1>
 <h2>Backend Developer</h2>
 <br/>
-<p>I've been learning code for 7 years, I started with Labview and now I'm B-end developer.</p>* 🌍  I'm based in Iran, Zanjan</p>* ✉️  You can contact me at [arta1382@gmail.com](mailto:arta1382@gmail.com)</p>* 🧠  I'm learning fastapi</p>* 🤝  I'm open to collaborating on Madtalk</p>* ⚡  I'm quit gamer, lets play together.</p>
+<p>I've been learning code for 7 years, I started with Labview and now I'm B-end developer.</p>* 🌍  I'm based in Iran, Zanjan</p>* ✉️  You can contact me at [arta1382@gmail.com](mailto:arta1382@gmail.com)</p>* 🧠  I'm learning fastapi</p>* ⚡  I'm quit gamer, lets play together.</p>
 
 ### Skills
 
