@@ -1,7 +1,4 @@
-<h1> Hi 👋 My name is Arta </h1>
-<h2>Backend Developer</h2>
-<br/>
-<p>I've been learning code for 7 years, I started with Labview and now I'm B-end developer.</p>* 🌍  I'm based in Iran, Zanjan</p>* ✉️  You can contact me at [arta1382@gmail.com](mailto:arta1382@gmail.com)</p>* 🧠  I'm learning fastapi</p>* ⚡  I'm quit gamer, lets play together.</p>
+<h1> Hi I'm Arta </h1>
 
 ### Skills
 
@@ -13,7 +10,7 @@
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>GitHub Stats</b>
 
 <a href="http://www.github.com/artaabbasi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=artaabbasi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
